@@ -11,35 +11,45 @@ let contacts = [
     firstName: 'John',
     lastName: 'Tolkien',
     email: 'tolkien@inklings.com',
-    phoneNumber: '867-5309'
+    phoneNumber: '867-5309',
+    expiryFrom: '2017-01-01',
+    expiryTo: '2019-01-01'
   },
   {
     id: getId(),
     firstName: 'Clive',
     lastName: 'Lewis',
     email: 'lewis@inklings.com',
-    phoneNumber: '867-5309'
+    phoneNumber: '867-5309',
+    expiryFrom: '2017-01-01',
+    expiryTo: '2019-01-01'
   },
   {
     id: getId(),
     firstName: 'Owen',
     lastName: 'Barfield',
     email: 'barfield@inklings.com',
-    phoneNumber: '867-5309'
+    phoneNumber: '867-5309',
+    expiryFrom: '2017-01-01',
+    expiryTo: '2019-01-01'
   },
   {
     id: getId(),
     firstName: 'Charles',
     lastName: 'Williams',
     email: 'williams@inklings.com',
-    phoneNumber: '867-5309'
+    phoneNumber: '867-5309',
+    expiryFrom: '2017-01-01',
+    expiryTo: '2019-01-01'
   },
   {
     id: getId(),
     firstName: 'Roger',
     lastName: 'Green',
     email: 'green@inklings.com',
-    phoneNumber: '867-5309'
+    phoneNumber: '867-5309',
+    expiryFrom: '2017-01-01',
+    expiryTo: '2019-01-01'
   }
 ];
 
